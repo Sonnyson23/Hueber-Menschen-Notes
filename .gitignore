@@ -1,0 +1,5 @@
+
+# Hueber Menschen Notes - .docx local kalir
+*.docx
+*.tmp
+.DS_Store
